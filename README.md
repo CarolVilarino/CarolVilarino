@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CarolVilarino I love cats and technology 
+- 👋 Hi, I’m @CarolVilarino I love cats and fostering kittens 🐈 
 - 👀 I’m interested in technology and learning new things everyday 
-- 🌱 I’m currently learning JavaScript and stuff
+- 🌱 I’m currently learning JavaScript, React and stuff
 - 💞️ I’m looking to collaborate on open source projects 
 
 <!---
