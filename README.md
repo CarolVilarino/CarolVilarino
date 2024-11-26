@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carol, but my friends call me Molly</h1>
 <h3 align="center">I love cats and fostering kittens 🐈</h3>
 
-- 🔭 I’m currently improving my tech and soft skills on [Resilia Educação](https://www.resilia.com.br/)
+- 🔭 I’m currently studying computing, participating in scientific initiation projects with social impacts
 
 - 📫 How to reach me **carolinevilarino@alunos.utfpr.edu.br**
 
